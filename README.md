@@ -7,3 +7,4 @@
 - OSINT
 - Pentest
 - Social Engineering
+- Middle
