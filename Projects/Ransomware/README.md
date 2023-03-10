@@ -1,10 +1,14 @@
 # Ransomware
 
-## Requisitos
+### Descrição
+
+Ransomware é um tipo de malware de sequestro de dados, feito por meio de criptografia, que usa como refém arquivos pessoais da própria vítima e cobra resgate para restabelecer o acesso a estes arquivos. O resgate é cobrado em criptomoedas, que, na prática, o torna quase impossível de se rastrear o criminoso
+
+### Requisitos
 
 - [Python](https://www.python.org/)
 
-## Iniciando o projeto
+### Iniciando o projeto
 
 ```bash
 # Instale o pyaes p
