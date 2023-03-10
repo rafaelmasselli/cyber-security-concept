@@ -20,4 +20,4 @@
 
 ### Resutados
 
-![Alt text](../.github/passwd.png "Optional title")
+![Alt text](../../.github/passwd.png "Optional title")
